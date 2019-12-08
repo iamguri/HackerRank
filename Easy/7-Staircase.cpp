@@ -1,5 +1,4 @@
 https://www.hackerrank.com/challenges/staircase/problem
-
 Problem:
 Consider a staircase of size :
 
