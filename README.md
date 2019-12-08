@@ -2,10 +2,10 @@
 
 All of the programming solution i used to solve on hackerrank
 
-Three categories:
-Easy : https://github.com/iamguri/HackerRank/tree/master/Easy
-Medium : https://github.com/iamguri/HackerRank/tree/master/Medium
-Hard : https://github.com/iamguri/HackerRank/tree/master/Hard
+Three categories: \br
+Easy : https://github.com/iamguri/HackerRank/tree/master/Easy \br
+Medium : https://github.com/iamguri/HackerRank/tree/master/Medium \br
+Hard : https://github.com/iamguri/HackerRank/tree/master/Hard \br
 
 All the solution are available in C++ language.
 I will soon turn to Python and create a new directory 
