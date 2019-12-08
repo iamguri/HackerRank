@@ -6,7 +6,7 @@ arr = [-2,-1,0,1,2] here are 5 elements.
 ration would be:
 2/5=0.40000 (negative)
 1/5=0.20000 (zero)
-2/5=0.20000 (positive)
+2/5=0.40000 (positive)
 
 Solution:
 #include <bits/stdc++.h>
