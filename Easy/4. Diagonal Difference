@@ -1,0 +1,31 @@
+#include <bits/stdc++.h>
+
+using namespace std;
+
+ int main(){
+
+   int i,j,d1=0,d2=0,n,a[100][100],sum=0;
+
+      cin>>n;
+
+     for(i=0;i<n;i++){
+         for(j=0;j<n;j++){
+             cin>>a[i][j];
+         }
+      }
+   
+   for(i=0;i<n;i++){
+       for(j=0;j<n;j++){
+            if(i==j){
+            d1 += a[i][j];
+            }
+           if(i==n-j-1){
+                 d2 += a[i][j];
+           }
+       }
+   }
+   sum=abs(d1-d2);
+   cout<<sum;
+   return 0;
+}
+
