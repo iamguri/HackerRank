@@ -7,6 +7,14 @@ alice= (a[0],a[1],a[2])
 bob= b[0],b[1],b[2])
 compare a[0] with b[0] and so on...
 
+Sample Input 0
+
+5 6 7
+3 6 10
+Sample Output 0
+
+1 1
+   
 Solution:
 #include <bits/stdc++.h>
 
