@@ -1,6 +1,6 @@
 # HackerRank
 
-**All of the programming problems i solved on hackerrank
+** All of the programming problems i solved on hackerrank
 
 Three categories: <br/>
 Easy   : https://github.com/iamguri/HackerRank/tree/master/Easy <br/>
